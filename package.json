@@ -1,0 +1,11 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "主要研究下git钩子",
+  "main": "index.js",
+  "scripts": {
+    "template": "node script/command/template --template"
+  },
+  "author": "",
+  "license": "ISC"
+}
