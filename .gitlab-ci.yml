@@ -1,0 +1,9 @@
+stages:
+  - template
+
+template_job:
+  stage: template
+  script:
+    - npm run template
+  only:
+    - merge_requests
