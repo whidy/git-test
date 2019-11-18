@@ -10,5 +10,5 @@ aa();;;;
 
 
 function doSth(str) {
-  console.log(str)
+  console.log(str);
 }
