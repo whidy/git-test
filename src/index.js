@@ -7,3 +7,8 @@ function aa (params) {
   return a   + params;
 }
 aa();;;;
+
+
+function doSth(str) {
+  console.log(str)
+}
